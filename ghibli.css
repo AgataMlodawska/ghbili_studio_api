@@ -1,0 +1,438 @@
+header::before{
+    background-image: url('ghbili_studio.png');
+    width: 100%;
+    height: 160px;
+    content: "";
+    display: flex;
+}
+
+.hashtag{
+    text-decoration: none;
+    opacity: 1;
+    transition: 0.3s;
+    background-color: white;
+
+}
+.hashtag:hover {opacity: 60%;
+  }
+  .enlace{ text-decoration: none;
+    opacity: 1;
+    transition: 0.3s;
+    color:lightblue
+    
+  
+
+  }
+  .enlace:hover{
+      opacity:0.6;
+  }
+  
+.hashtag2{
+    text-decoration: none;
+    opacity: 1;
+    transition: 0.3s;
+    background-color: white;
+    margin-right: 2%;
+    
+}
+.hashtag2:hover {opacity: 60%;
+  }
+  .enlace2{ text-decoration: none;
+    opacity: 1;
+    transition: 0.3s;
+    margin-right: 20%;
+    color: lightblue
+    
+
+  }
+  .enlace2:hover{
+      opacity:0.6;
+  }
+  
+.link{
+    
+    text-decoration-style: none;
+    align-content: flex-end;
+    margin-left:50%;
+    margin-right: 9%;
+    display:flex;
+    justify-content: space-between;
+    
+    
+}
+.link2{
+    
+    text-decoration-style: none;
+    align-content: flex-end;
+    margin-left:45%;
+    margin-right: 9%;
+    display:flex;
+    justify-content: space-between;
+    
+    
+}
+
+li{
+    list-style-type: none
+}
+body{
+    font-family: "Trirong", serif;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    background-color: rgb(28, 28, 48);
+
+}
+h1{
+    display: flex;
+    text-align-last: right;
+}
+h2{
+    display: flex;
+    text-align-last: right;
+    
+}
+
+.filmtape{
+    background-color: rgb(28, 28, 48);
+    padding: 1%;
+    color: lightblue;
+    display: flex;
+    margin-bottom: -2%;
+  
+
+}
+
+
+
+#search-site{
+    display: flex;
+}
+#search{
+    background-color:rgb(28, 28, 48);
+    width: 30%;
+    padding-left: 2%;
+  
+    
+}
+.header_right2{
+    margin-left: 1%;
+}
+.header_right{
+    margin-left: 10%;
+}
+#results{
+    background-color: lightblue;
+    width: 30%;
+    margin-top: 1.25%;
+    padding-left: 3%;
+ 
+    
+}
+#details{
+    background-color: lightblue;
+    width: 30%;
+    padding-right: 5%;
+    margin-top:1.25%;
+    padding-left: 5%;
+}
+#description{
+    padding-bottom: 25%;
+}
+#search-engine{
+    margin-left:5%;
+    height: 10%;
+    width: 50%;
+    border-radius: 2%;
+    border-style: none;
+    background-color: lightblue;
+    max-width: 250px;
+    max-height: 50px;
+    
+}
+#button{
+    height: 10%;
+    width: 16%;
+    border-radius: 2%;
+    border-style: none;
+    background-color: lightblue;
+    max-width: 50px;
+    max-height: 50px;
+    margin-top: 1%;
+    
+}
+#button2{
+    height: 10%;
+    width: 16%;
+    border-radius: 2%;
+    border-style: none;
+    background-color: lightblue;
+    max-width: 50px;
+    max-height: 50px
+    
+}
+#button3{
+    margin-top: 1%;
+    height: 10%;
+    width: 16%;
+    border-radius: 2%;
+    border-style: none;
+    background-color: lightblue;
+    max-width: 50px;
+    max-height: 50px
+    
+}
+
+#button:hover, #button2:hover, #button3:hover, #button5:hover {
+    background-color: white;
+}
+#img{
+    max-width: 300px;
+    max-height: 250px;
+}
+.big{
+   width: 84%;
+   height: auto;
+   margin-left: 5%;
+   margin-top: 5%;
+}
+.biga{
+    width: 86%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 5%;
+ }
+.big2{
+    width: 350px;
+    height: auto;
+    margin-top: 5%;
+    margin-right: 10%;
+ }
+
+footer{
+    background-color:rgb(28, 28, 48);
+    margin-bottom: -2%;
+    padding-left: 27.4%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    color: lightblue;
+    
+    
+}
+.footer2{
+    background-color:rgb(28, 28, 48);
+    margin-top: 30%;
+    padding-left: 27.4%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    color: lightblue;
+    margin-top: 60%;
+}
+
+.gif{
+    height: 100%;
+    width: auto;
+}
+.icon{
+ height: 50px;
+ width: 50px;
+ color: #000000;
+}
+#bonus{
+    margin-top: 1%;
+    width: 10%;
+   background-color: rgb(28, 28, 48);
+   color: lightblue;
+}
+#query{
+    border-style: solid;
+    border-color: rgb(28, 28, 48);
+}
+
+#fav{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20%;
+    margin-left: 20%;
+    padding-top: 20%;
+    margin-top: 20%;
+    margin-bottom: -70%;
+    height: 100%;
+}
+.reference{
+    display: flex;
+    padding-top: 8%;
+    text-decoration-style: none;
+    padding-left: 4%;
+}
+.header2{
+    background-color: rgb(28, 28, 48);
+    color: lightblue;
+    padding: auto;
+    margin-bottom: 2%
+}
+.reference2{
+    display: flex;
+    padding-top: 8%;
+    text-decoration-style: none;
+    padding-left: 1%;
+}
+.title2{
+    margin-bottom: 1%;
+    padding-left: 3%;
+}
+
+.neon{
+   background-color: rgb(28, 28, 48);
+   color: lightblue;
+   margin-left: 35%;
+   margin-right: 35%;
+   font-weight: bold;
+   font-size: x-large;
+}
+
+#h1{
+    font-size: medium;
+}
+#h2{
+    font-size: small;
+}
+.logo2{
+    margin-bottom: 10%;;
+}
+#h2_2{
+    margin-bottom: 10%;
+    margin-bottom: 1%;
+}
+#button5{
+    background-color: lightblue;
+    border-style: none;
+    text-decoration-style: none;
+    font-family: "Trirong", serif;
+    margin-left: 63.5%;
+    border-radius: 3%;
+    
+}
+@media (max-width: 767px)
+{#button5{
+    background-color: lightblue;
+    border-style: none;
+    text-decoration-style: none;
+    font-family: "Trirong", serif;
+    font-size: x-small;
+    margin-left: 59%;
+    
+}
+    .hashtag{
+        margin-left: 30%;
+    }
+    .link{
+        margin-left: 30%;
+        margin-right: 6%;
+        font-size: x-small;
+    }
+    .header_right{
+        padding-top: 4%;
+    }
+    .bonus{
+        padding-left: -20%;
+    }
+    .logo{
+        font-size: x-small;
+        margin-top: -1%;
+        padding: auto
+    }
+    .logo2{
+        font-size: x-small;
+        margin-top: -1%;
+        padding: auto;
+        width: 65%;
+    }
+    footer{
+        font-size: xx-small;
+    }
+    #search-engine{
+        font-size: xx-small;
+        height: 12%;
+        max-height: 30px;
+        min-height: 30px
+       
+        
+
+    }
+    #button, #button2, #button3{
+        height: 12%;
+
+        font-size: xx-small;
+        max-height: 30px;
+        min-height: 30px;
+        max-width: 40px;
+        min-width: 19px;
+    }
+    #results{
+        padding-left: 1%;
+        padding-right: 1%;
+        font-size: xx-small;
+        width:35%;
+    }
+    #details{
+        font-size: x-small;
+        width:35%;
+    }
+    #search{
+        width: 35%;
+    }
+    .neon{
+        font-size: smaller;
+        margin-left: 20%;
+    }
+    .big{
+        width: 90%;
+        min-width: 100px;
+    }
+    .biga{
+        width: 90%;
+        min-width: 100px;
+     }
+    #info{
+        display: flex;
+        border-bottom: lightblue;
+    }
+    .link2{
+        display: flex;
+        justify-content: space-between;
+        font-size: x-small;
+        padding: auto;
+        
+    }
+    .big2{
+        width: 80%;
+        height: auto;
+        margin-top: 5%;
+        margin-left: 12%;
+     }
+     #fav{
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 2%;
+        padding-left: 10%;
+        padding-top: 20%;
+        margin-top: 20%;
+        margin-bottom: -50%;
+        height: 100%;
+    }
+     .footer2{
+        background-color:rgb(28, 28, 48);
+        padding-left: 27.4%;
+        padding-right: 10%;
+        padding-bottom: 2%;
+        padding-top: 2%;
+        margin-top: 25%;
+        margin-bottom: -50%;
+        color: lightblue;
+        
+        
+    }
+}
